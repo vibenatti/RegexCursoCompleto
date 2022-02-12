@@ -1,0 +1,18 @@
+/* @vinnebenatti
+ * Curso completo de Regex (do zero ao avançado)
+ * https://www.udemy.com/course/curso-regex
+ * 11/02/2022
+*/
+
+Exemplos de ferramentas online para utilizar o Regex (Expressão regular);
+
+Pode-se utilizar expressões regulares em Consoles, IDE's e em ferramentas online gratuitas;
+
+Sites das ferramentas online {
+
+    https://regexr.com/
+    https://regex101.com/
+    https://www.regextester.com/
+    https://extendsclass.com/regex-tester.html
+
+}

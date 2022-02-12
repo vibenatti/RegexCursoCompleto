@@ -1,0 +1,49 @@
+/* @vinnebenatti
+ * Curso completo de Regex (do zero ao avançado)
+ * https://www.udemy.com/course/curso-regex
+ * 11/02/2022
+*/
+
+Livros para utilizar durante o curso ou aperfeiçoar os conhecimentos
+
+Livros {
+
+    Expressões Regulares Cookbook [
+        https://amz.run/5JAE
+    ]
+    Expressões Regulares [
+        https://amz.run/5JAI
+    ]
+    Introdução às Expressões Regulares [
+        https://amz.run/5JAL
+    ]
+
+}
+
+1. Definição:
+
+    Definição de uma Expressão Regular: "Bem resumido, uma expressão regular é um método formal de se especificar um padrão de texto";
+
+    Imagina que voce tem um texto gigante, e voce quer encontrar dento desse texto emails ou numeros telefonicos, cep, etc...
+
+    Para identificar essas palavras sem precisar utilizar gambiarra, ou na força-bruta, utiliza-se expressões regulares para facilitar, exemplo abaixo:
+
+    ### Exemplo ###
+
+    texto = "Oi, eu sou um texto com email teste@gmail.com e minha regex abaixo irá filtrar apenas o email";
+
+    console.log(texto.match(/\S+@\S+\.\S+/)) //resultado = [ teste@gmail.com ]
+
+    ###############
+
+2. Onde Encontrar Expressões Regulares:
+
+    Encontra-se dentro de Linguagens de Programação;
+    Editores de Texto;
+    IDE's;
+    Ferramentas de linha de comando;
+
+3. Linguagens de Programação Vs. REGEX
+
+    O capitulo 2 irá mostrar como executar em algumas linguagens de programação as expressões regulares, como por exemplo: Ruby, Python, Go, Java e JavaScript
+    Esse curso será feito em JavaScript (podendo utiliza-lo como desafio escrever em outra linguagem)

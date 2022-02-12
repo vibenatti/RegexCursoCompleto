@@ -1,0 +1,147 @@
+/* @vinnebenatti
+ * Curso completo de Regex (do zero ao avançado)
+ * https://www.udemy.com/course/curso-regex
+ * 11/02/2022
+*/
+
+Visão geral do Curso de Regex, um breve resumo do que será passado em cada aula, para facilitar as cunsultas futuramente, caso esqueça de algo;
+
+Mapa mental com todos os Capitulos;
+
+CURSO REGEX:
+
+1.- Primeiro Modulo (Introdução) {
+
+    Repositórios [
+        Repositório do Curso completo, com todos os codigos, explicações e tudo o que tiver direito;
+    ]
+    Livros e Conceitos [
+        Sugestões de Livros a serem comprados e os livros utilizados para ministrar esse curso;
+        Conceitos do que é uma Expressão Regular, apostilas, exercicios e etc.;
+    ]
+
+}
+
+2.- Segundo Modulo (Executando Regex) {
+
+    JS [
+        Alguns exemplos de como executar Regex em JavaScript;
+    ]
+    Ruby [
+        Alguns exemplos de como executar Regex em Ruby;
+    ]
+    Python [
+        Alguns exemplos de como executar Regex em Python;
+    ]
+    Go [
+        Alguns exemplos de como executar Regex em Go;
+    ]
+    Java [
+        Alguns exemplos de como executar Regex em Java;
+    ]
+
+}
+
+3.- Terceiro Modulo (Caracteres) {
+
+    Metacaracteres [
+        Veremos o que são os Metacaracteres, que são caracteres especiais, que exercem funções especiais dentro de uma expressão regular;
+    ]
+    Ponto [
+        Caractere coringa, utilizado para substituir outros caracteres;
+    ]
+    Ou [
+        Caractere de validação, comparação;
+    ]
+    Unicode [
+        Trabalhando com a tabela unicode, ordem dos caracteres, entre outros;
+    ]
+
+}
+
+4.- Quarto Modulo (Conjuntos) {
+
+    Conjuntos [
+        Entendendo o que é um Conjunto;
+    ]
+    Intervalos [
+        Entender e definir intervalos para obter caracteres dentro de expressões regulares;
+    ]
+    Shorthands [
+        Entendendo o que é e como utilizar os atalhos (shorthands);
+    ]
+    Conjuntos Negados [
+        Entendendo o que é um conjunto negado e como trabalhar dentro da expressão regular;
+    ]
+
+}
+
+5.- Quinto Modulo (Quantificadores) {
+
+    Zero-Um [
+        Quantificador para definir Zero ou Um determinado elemento;
+    ]
+    Um-Mais [
+        Quantificador para definir Um ou Mais determinados elementos;
+    ]
+    Zero-Mais [
+        Quantificador para definir Zero ou Mais determinados elementos;
+    ]
+    Guloso Vs. Não Guloso [
+        Entendendo conceito do que é Guloso e o não Guloso;
+    ]
+    Desafios [
+        Vários desafios para reforçar o aprendizado;
+    ]
+
+}
+
+6.- Sexto Modulo (Bordas) {
+
+    Bordas [
+        Entendendo o que são Bordas, bordas de linhas e como utilizar nas expressões regulares;
+    ]
+    Dotall [
+        Entendendo o que é Dotall;
+    ]
+    Multiline [
+        Entendendo flags Multiline;
+    ]
+    Bordas de Palavras [
+        Entendendo o que são Bordas, bordas de linhas e como utilizar nas expressões regulares;
+    ]
+
+}
+
+7.- Sétimo Modulo (Grupos) {
+
+    Grupo [
+        Entendendo o que são grupos;
+    ]
+    Retrovisores [
+        Entendendo o que são os retrovisores;
+    ]
+    Aninhamento [
+        Entendendo o que é aninhamento;
+    ]
+    Grupos Especiais [
+        Entendendo o que são grupos especiais;
+    ]
+
+}
+
+8.- Oitavo Modulo (Desafios) {
+
+    Receitas [
+        Varios desafios e receitas para reforçar o conhecimento e aumentar o arsenal de soluções para o dia a dia;
+    ]
+
+}
+
+9.- Nono Modulo (Conclusão) {
+
+    Conclusão [
+        Conclusão do curso;
+    ]
+
+}

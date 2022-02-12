@@ -1,0 +1,15 @@
+/* @vinnebenatti
+ * Curso completo de Regex (do zero ao avançado)
+ * https://www.udemy.com/course/curso-regex
+ * 11/02/2022
+*/
+
+Link para Download do VSCode: https://code.visualstudio.com/download
+
+Basta Selecionar seu Sistema Operacional e seguir o passo a passo da pagina;
+
+### Configurando Plugins VSCode ###
+
+Navegue até a opção "Extensions" e pesquise pela extenção "Code Runner" e instale em seu VSCode
+
+Após a instalação, basta escrever seus codigos em JS normalmente e quando for executar, basta utilizar a tecla de atalho: Ctrl + Alt + N, com isso ele irá executar seus codigos e interpretar no Console(Terminal) com o NodeJS por trás
